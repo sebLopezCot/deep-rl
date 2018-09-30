@@ -1,7 +1,0 @@
-*.pyc
-bin/
-include/
-lib/
-local/
-pip-selfcheck.json
-__pycache__
